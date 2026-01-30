@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7867],{97867:(e,r,u)=>{u.r(r),u.d(r,{AsciiPlayer:()=>n});var s=u(95155),t=u(12115),l=u(787);u(97561);let n=e=>{let{src:r,...u}=e,n=(0,t.useRef)(null);return(0,t.useEffect)(()=>{if(!n.current)return;let e=(0,l.v)(r,n.current,u);return()=>{e&&e.dispose()}},[r,u]),(0,s.jsx)("div",{ref:n})}}}]);

@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:I[60729,["2619","static/chunks/2619-6e4b0f7a5e306a67.js","8720","static/chunks/8720-84a9ef373a7f70f3.js","3131","static/chunks/3131-b09b0f545be46bfd.js","7177","static/chunks/app/layout-1cb9fbcc639ea8d3.js"],"RootProvider"]
+3:I[76454,["2619","static/chunks/2619-6e4b0f7a5e306a67.js","8720","static/chunks/8720-84a9ef373a7f70f3.js","3131","static/chunks/3131-b09b0f545be46bfd.js","7177","static/chunks/app/layout-1cb9fbcc639ea8d3.js"],"NuqsAdapter"]
+4:I[9766,[],""]
+5:I[49567,["5707","static/chunks/5707-3ed4755c3efe5d6d.js","8039","static/chunks/app/error-ae7bc8cfe55bb9bb.js"],"default"]
+6:I[98924,[],""]
+7:I[70240,["2619","static/chunks/2619-6e4b0f7a5e306a67.js","8720","static/chunks/8720-84a9ef373a7f70f3.js","3131","static/chunks/3131-b09b0f545be46bfd.js","7177","static/chunks/app/layout-1cb9fbcc639ea8d3.js"],"Toaster"]
+9:I[24431,[],"OutletBoundary"]
+b:I[15278,[],"AsyncMetadataOutlet"]
+d:I[24431,[],"ViewportBoundary"]
+f:I[24431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[57150,[],""]
+:HL["/UEval/_next/static/media/66f30814ff6d7cdf.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/UEval/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/UEval/_next/static/css/5a9dae0d910ab8e0.css","style"]
+8:T818,╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║              ██╗   ██╗  ███████╗   ██╗   ██╗   █████╗    ██╗              ║
+║              ██║   ██║  ██╔════╝   ██║   ██║  ██╔══██╗   ██║              ║
+║              ██║   ██║  █████╗     ╚██╗ ██╔╝  ███████║   ██║              ║
+║              ██║   ██║  ██╔══╝      ╚████╔╝   ██╔══██║   ██║              ║
+║            ╚██████╔╝  ███████╗     ╚██╔╝    ██║  ██║   ███████╗           ║
+║             ╚═════╝   ╚══════╝      ╚═╝     ╚═╝  ╚═╝   ╚══════╝           ║
+║                                                                           ║
+║                  _   _    _____   __     __      _       _                ║
+║                | | | |  | ____|  \ \   / /     / \     | |                ║
+║                | | | |  |  _|     \ \ / /     / _ \    | |                ║
+║                | | | |  | |___     \ V /     / ___ \   | |                ║
+║              | |_| |  |_____|     \_/     /_/   \_\  | |____              ║
+║               \___/                                  |______|             ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+0:{"P":null,"b":"cJ2AMD_FyXA9wZjgwrnSX","p":"/UEval","c":["","ascii-logo"],"i":false,"f":[[["",{"children":["ascii-logo",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/UEval/_next/static/css/5a9dae0d910ab8e0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__className_370cd6 __variable_3b6218","suppressHydrationWarning":true,"children":["$","body",null,{"className":"flex min-h-screen flex-col","children":[["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","$L7",null,{}]]}]}]]}],{"children":["ascii-logo",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto p-24","children":["$","div",null,{"className":"flex h-[630px] w-[1200px] items-center justify-center","children":["$","pre",null,{"className":"font-mono text-2xl","children":"$8"}]}]}],null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+13:I[80622,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"UEval"}],["$","meta","1",{"name":"description","content":"UEval is a challenging real-world benchmark for multimodal generation of unified models that are capable of generating both images and text."}],["$","meta","2",{"property":"og:title","content":"UEval: A Benchmark for Unified Multimodal Generation"}],["$","meta","3",{"property":"og:description","content":"UEval is a challenging real-world benchmark for multimodal generation of unified models that are capable of generating both images and text."}],["$","meta","4",{"property":"og:url","content":"http://localhost:3000/UEval"}],["$","meta","5",{"property":"og:site_name","content":"UEval"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/UEval/UEval/og.png"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"UEval: A Benchmark for Unified Multimodal Generation"}],["$","meta","11",{"name":"twitter:description","content":"UEval is a challenging real-world benchmark for multimodal generation of unified models that are capable of generating both images and text."}],["$","meta","12",{"name":"twitter:image","content":"http://localhost:3000/UEval/UEval/og.png"}],["$","meta","13",{"name":"twitter:image:width","content":"1200"}],["$","meta","14",{"name":"twitter:image:height","content":"630"}],["$","link","15",{"rel":"icon","href":"/favicon.ico"}],["$","$L13","16",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
